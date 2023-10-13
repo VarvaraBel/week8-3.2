@@ -1,0 +1,48 @@
+@font-face {
+    src: url(./assets/Fonts/Roboto-Black.ttf);
+    font-family: 'Roboto', sans-serif;
+    src: url(./assets/Fonts/RobotoSlab-VariableFont_wght.ttf);
+    font-family: 'RobotoSlab';
+}
+h1 {
+    font-family: 'Roboto';
+    font-size: 45px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.block-top {
+    margin-top: 40px;
+}
+.btn {
+    background-color:  rgb(76, 37, 200);
+    border-radius: 45px;
+    font-family: 'Roboto';
+}
+.block1-but {
+    width: 150px;
+    height: 38px;
+}
+.card {
+height: 500px;
+}
+.card-title {
+    font-family: 'Roboto';
+    font-size: 30px;
+}
+p {
+    font-family: 'RobotoSlab';
+    color: dimgrey;
+}
+.nav-link {
+    color:  gray;
+}
+.block-card {
+    height: 200px;
+}
+.block-card1 {
+    background-color: rgb(237, 91, 77);
+}
+.block-card6 {
+    color: white;
+}
